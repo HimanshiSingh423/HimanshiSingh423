@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HimanshiSingh
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning Typescript,Angular,ReactJs,MongoDB
+- 🌱 I’m currently learning Typescript,Angular,ReactJs,MongoDB,Java
 - 💞️ I’m looking to collaborate on Software Company
  
 
